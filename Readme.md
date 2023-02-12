@@ -1,0 +1,1 @@
+Ausgeben von Informationen zur Java-Umgebung
